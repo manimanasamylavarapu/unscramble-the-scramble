@@ -11,3 +11,5 @@ Same set of scrambled words are presented to each person, a decided timer is sta
 
 flavour #3 - pingpong
 Each person gives a scrambled word to the other person. Each person takes turns in giving the word. Time given for solving each word depends on number of characters in that word, say, time = characters * 5 seconds. Whoever fails to find correct word in given time, fails. Or who ever couldn't identify 3 words fails. 
+
+flavour #4 - yet to be designed
